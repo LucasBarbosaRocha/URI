@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 consumo = int(input())
 gasto = 7
 if consumo > 10:
@@ -16,5 +18,5 @@ if consumo > 30:
 if consumo > 100:
     aux = consumo - 100
     gasto += (aux*5)
-    
+
 print (gasto)
