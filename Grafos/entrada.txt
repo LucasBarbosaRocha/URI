@@ -1,0 +1,17 @@
+4
+2
+acm
+ibm
+3
+acm
+malform
+mouse
+5
+acm
+malform
+mouse
+ela
+acm
+2
+ok
+ok
